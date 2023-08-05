@@ -1,4 +1,5 @@
 # Satish
 This is the first message
-
-hii friends this is my project i hope you like this if we want to do any commits i am happy to merge it 
+Hii friends this is my git hub resporitary 
+I hope it may help to you 
+link [Bubblesort](https://www.youtube.com/watch?v=ba1sVf2OVc4)
